@@ -18,9 +18,13 @@ cd your-portfolio
 Once you have the project on your local machine, you can do the following:
 
 Open the index.html file in your web browser to view my portfolio.
+
 Explore different sections using the navigation links in the header.
+
 Download my CV (resume) by clicking the "Download CV" button.
+
 Connect with me on LinkedIn and check out my GitHub profile by clicking on the social media icons.
+
 Dive into the "Experience" and "Projects" sections to get a deeper understanding of my skills and accomplishments.
 
 ## Special Thanks
