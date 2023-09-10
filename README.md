@@ -1,5 +1,5 @@
 # Responsive-portfolio
-Hello, I'm I, and welcome to my portfolio website. This website is a reflection of my journey as a
+Hello, I'm Gaurab Upreti, and welcome to my portfolio website. This website is a reflection of my journey as a
 software developer and a place where I share my experiences and projects with you. I'm passionate about
 creating innovative solutions and pushing the boundaries of what's possible in the world of technology.
 
