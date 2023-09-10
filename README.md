@@ -11,6 +11,7 @@ If you'd like to explore this portfolio locally, you can follow these simple ste
 
 Clone this repository to your local machine with the following command:
 git clone https://github.com/your-username/your-portfolio.git
+
 cd your-portfolio
 
 ## Usage
