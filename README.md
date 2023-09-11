@@ -3,6 +3,11 @@ Hello, I'm Gaurab Upreti, and welcome to my portfolio website. This website is a
 software developer and a place where I share my experiences and projects with you. I'm passionate about
 creating innovative solutions and pushing the boundaries of what's possible in the world of technology.
 
+## Live Demo
+You can click on the link below and see my portfolio.
+
+https://www.upretigaurab.com.np/
+
 ## Technologies Used
 I have built this portfolio using a combination of technologies, including HTML, CSS, and JavaScript. I've also incorporated Google Fonts for typography and used Font Awesome icons to enhance the visual appeal of the site.
 
